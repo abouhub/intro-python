@@ -1,0 +1,6 @@
+print("choisi 3 nombre")
+br1=int(input())
+br2=int(input())
+br3=int(input())
+print("la somme des trois est ")
+print(br1 + br2 + br3)
